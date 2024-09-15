@@ -1,0 +1,6 @@
+numpy==1.21.0
+pandas==1.3.3
+tensorflow==2.5.0
+rasterio==1.2.10
+xarray==0.18.2
+ee==0.1.278  # Earth Engine library
